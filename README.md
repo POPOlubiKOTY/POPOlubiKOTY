@@ -6,7 +6,6 @@
 <meta charset="UTF-8">
 <meta name="description" content="Strona o mnie">
 <meta name="keywords" content="Strona o mnie">
-<title>Strona o mnie</title>
 </head>
 
 <body>
